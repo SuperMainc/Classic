@@ -51,6 +51,7 @@
   "privacyPolicyUrl": "https://sites.google.com/view/supermodsprivacypolicy/",
   "contactEmail": "supermodforpe@gmail.com",
   "theme": {
-    "preset": "neon"
+    "preset": "pixel",
+    "font": "nunito"
   }
 }
