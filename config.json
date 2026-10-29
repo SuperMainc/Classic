@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "ads": {
+    "enabled": true,
+    "admob": {
+      "appOpen": "ca-app-pub-1372754592330079/5710828883",
+      "banner": "ca-app-pub-1372754592330079/5159611159",
+      "interstitial": "ca-app-pub-1372754592330079/8599150952",
+      "rewarded": "ca-app-pub-1372754592330079/1633972176",
+      "native": "ca-app-pub-1372754592330079/9650073894"
+    },
+    "levelPlay": {
+      "enabled": true,
+      "appKey": "2905a4ee5",
+      "banner": "gpnx6c9est6sbu7w",
+      "interstitial": "tlqmc3q2u6cbadzb",
+      "rewarded": "qmi3c6dhzfdlzyo3",
+      "native": "1p7o1djjf9f5mmqv"
+    },
+    "frequency": {
+      "interstitialEveryNBreaks": 2,
+      "interstitialCooldownSeconds": 60,
+      "interstitialMaxPerSession": 12,
+      "noInterstitialFirstSeconds": 30,
+      "fullscreenGapSeconds": 25,
+      "appOpenCooldownSeconds": 180,
+      "appOpenMaxPerSession": 4,
+      "appOpenMinBackgroundSeconds": 20,
+      "appOpenOnSplash": true,
+      "appOpenSkipFirstLaunch": true,
+      "nativeEveryMin": 3,
+      "nativeEveryMax": 4,
+      "importGateMin": 2,
+      "importGateMax": 2
+    },
+    "content": {
+      "maxAdContentRating": "PG",
+      "childDirected": false,
+      "underAgeOfConsent": false,
+      "testDeviceIds": [],
+      "forceEeaForTesting": false
+    }
+  },
+  "economy": {
+    "dailyBonus": 3,
+    "rewardedDiamonds": 3,
+    "rewardedPerDay": 5,
+    "rewardedCooldownSeconds": 120,
+    "vipDefaultPrice": 5
+  },
+  "privacyPolicyUrl": "https://sites.google.com/view/supermodsprivacypolicy/",
+  "contactEmail": "supermodforpe@gmail.com",
+  "theme": {
+    "preset": "neon"
+  }
+}
