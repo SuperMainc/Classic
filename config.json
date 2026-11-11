@@ -18,20 +18,20 @@
       "native": "1p7o1djjf9f5mmqv"
     },
     "frequency": {
-      "interstitialEveryNBreaks": 2,
-      "interstitialCooldownSeconds": 60,
-      "interstitialMaxPerSession": 12,
-      "noInterstitialFirstSeconds": 30,
-      "fullscreenGapSeconds": 25,
-      "appOpenCooldownSeconds": 180,
-      "appOpenMaxPerSession": 4,
-      "appOpenMinBackgroundSeconds": 20,
+      "interstitialEveryNBreaks": 1,
+      "interstitialCooldownSeconds": 15,
+      "interstitialMaxPerSession": 100,
+      "noInterstitialFirstSeconds": 0,
+      "fullscreenGapSeconds": 8,
+      "appOpenCooldownSeconds": 45,
+      "appOpenMaxPerSession": 50,
+      "appOpenMinBackgroundSeconds": 10,
       "appOpenOnSplash": true,
-      "appOpenSkipFirstLaunch": true,
+      "appOpenSkipFirstLaunch": false,
       "nativeEveryMin": 3,
-      "nativeEveryMax": 4,
-      "importGateMin": 2,
-      "importGateMax": 2
+      "nativeEveryMax": 6,
+      "importGateMin": 1,
+      "importGateMax": 1
     },
     "content": {
       "maxAdContentRating": "PG",
