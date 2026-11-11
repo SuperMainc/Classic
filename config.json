@@ -31,7 +31,7 @@
       "nativeEveryMin": 3,
       "nativeEveryMax": 6,
       "importGateMin": 1,
-      "importGateMax": 1
+      "importGateMax": 3
     },
     "content": {
       "maxAdContentRating": "PG",
