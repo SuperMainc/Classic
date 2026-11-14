@@ -1036,24 +1036,6 @@
       "vipPricemod": 5
     },
     {
-      "idmod": "modern-furniture-survival-addon",
-      "titlemod": "Modern Furniture | +750 BLOCKS",
-      "categorymod": "furniture",
-      "ratingmod": 4.4,
-      "reviewsmod": 5730,
-      "shortInfomod": "Furniture | 5.6 MB",
-      "descriptionmod": "Modern Furniture is a decor addon featuring over 750 blocks, offering a wide variety of sleek and stylish furniture pieces. Perfect for creating contemporary living spaces with unique and functional designs. Ideal for modern builds and interior decoration.",
-      "versionmod": "1.18.2",
-      "sizemod": "5.6 MB",
-      "authormod": "trotamundos872",
-      "imagesmod": [
-        "https://media.forgecdn.net/attachments/1959/883/final2-webp.webp"
-      ],
-      "downloadUrlmod": "https://edge.forgecdn.net/files/9303/897/Modern%20Furniture%20WE%2014.3s%20RP.mcpack",
-      "gameVersionmod": "Bedrock 1.18.2",
-      "vipmod": false
-    },
-    {
       "idmod": "scp-ikea-3008-addon",
       "titlemod": "SCP IKEA 3008 (FORGOTTEN HALLS UPDATE FIXED +)",
       "categorymod": "furniture",
